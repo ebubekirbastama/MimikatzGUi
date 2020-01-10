@@ -1,0 +1,12 @@
+C:\Users\Ebubekir\source\repos\Mimikatz\Mimikatz\bin\Debug\DevComponents.DotNetBar2.DLL
+C:\Users\Ebubekir\source\repos\Mimikatz\Mimikatz\obj\Debug\Mimikatz.csprojAssemblyReference.cache
+C:\Users\Ebubekir\source\repos\Mimikatz\Mimikatz\obj\Debug\Mimikatz.Form1.resources
+C:\Users\Ebubekir\source\repos\Mimikatz\Mimikatz\obj\Debug\Mimikatz.csproj.GenerateResource.cache
+C:\Users\Ebubekir\source\repos\Mimikatz\Mimikatz\obj\Debug\Mimikatz.csproj.CoreCompileInputs.cache
+C:\Users\Ebubekir\source\repos\Mimikatz\Mimikatz\obj\Debug\Mimikatz.csproj.CopyComplete
+C:\Users\Ebubekir\source\repos\Mimikatz\Mimikatz\bin\Debug\Mimikatzz.exe.config
+C:\Users\Ebubekir\source\repos\Mimikatz\Mimikatz\bin\Debug\Mimikatzz.exe
+C:\Users\Ebubekir\source\repos\Mimikatz\Mimikatz\bin\Debug\Mimikatzz.pdb
+C:\Users\Ebubekir\source\repos\Mimikatz\Mimikatz\obj\Debug\Mimikatzz.Properties.Resources.resources
+C:\Users\Ebubekir\source\repos\Mimikatz\Mimikatz\obj\Debug\Mimikatzz.exe
+C:\Users\Ebubekir\source\repos\Mimikatz\Mimikatz\obj\Debug\Mimikatzz.pdb
